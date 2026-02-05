@@ -96,5 +96,4 @@ _Add a screenshot of your project here after uploading to GitHub_
 
 ## ⭐ If you like this project
 
-
 Give it a star on GitHub ⭐
